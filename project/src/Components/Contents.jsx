@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
+import { Link } from "react-router-dom";
 
 const Content = () => {
   return (
@@ -8,20 +8,21 @@ const Content = () => {
       <ul className="list-decimal list-inside space-y-2">
         <li>
           <Link to="/one" className="text-blue-600 hover:underline">
-            I recalled my memory
+            Section one
           </Link>
         </li>
         <li>
           <Link to="/two" className="text-blue-600 hover:underline">
-            A person without self should serve those with self
+            Section two
           </Link>
         </li>
-        <li>
-          <Link to="/three" className="text-blue-600 hover:underline">
-            The question of Identity
-          </Link>
-        </li>
+
       </ul>
+      <a href="https://formsubmit.co/el/lukode" target="_blank" className="underline">Submit your content</a>
+      
+
+
+    
     </main>
   );
 };

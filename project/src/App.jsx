@@ -2,9 +2,8 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Components/Navbar';
 import Content from './Components/Contents';
-import QuestionOfIdentity from './Sections/three';
-import PersonWithoutSelf from './Sections/two';
-import Reflection from './Sections/one';
+import One from "./Sections/One"
+import Two from "./Sections/Two"
 
 function App() {
   return (
@@ -13,9 +12,8 @@ function App() {
       <Routes>
       {/* <Route path= "/" element={<Navbar/>}/> */}
         <Route path="/" element={<Content />} />
-        <Route path="/one" element={<Reflection />} />
-        <Route path="/two" element={<PersonWithoutSelf />} />
-        <Route path="/three" element={<QuestionOfIdentity/>}/>
+        <Route path="/one" element={<One/>} />
+        <Route path="/two" element={<Two/>} />
       </Routes>
     </Router>
   );
