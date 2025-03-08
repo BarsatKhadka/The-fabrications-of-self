@@ -121,6 +121,71 @@ export const Two = () => {
         <p className="mb-4">
           The middle way teaches us that while the self is not ultimate or permanent, our actions create causes and conditions that shape experience. Ethical conduct isn't for the benefit of an unchanging self, but rather contributes to the unfolding of experience with less suffering and greater harmony. The absence of a permanent self doesn't negate responsibility—it transforms our understanding of it.
         </p>
+
+        <h1 className="text-2xl font-bold mt-8 mb-4">The Fire of Craving</h1>
+        <p className="mb-4">
+          Let's examine a practical example: Imagine seeing a Chinese celebrity wearing revealing clothes on YouTube.
+          Certain processes come into action automatically.
+        </p>
+
+        <div className="mb-6">
+          <p className="mb-2">A person with wrong view sees this as:</p>
+          <div className="bg-gray-50 p-4 rounded-lg">
+            "Himself being attracted to that woman and now wanting her."
+          </div>
+        </div>
+
+        <div className="mb-6">
+          <p className="mb-2">A person with knowledge of dependent origination sees it this way:</p>
+          <div className="bg-gray-50 p-4 rounded-lg">
+            <ul className="space-y-2">
+              <li className="flex items-center">
+                <span className="mr-2">→</span> Sense organ (eye)
+              </li>
+              <li className="flex items-center">
+                <span className="mr-2">→</span> consciousness
+              </li>
+              <li className="flex items-center">
+                <span className="mr-2">→</span> contact (screen)
+              </li>
+              <li className="flex items-center">
+                <span className="mr-2">→</span> feeling ("I like her")
+              </li>
+              <li className="flex items-center">
+                <span className="mr-2">→</span> craving ("I want her")
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <p className="mb-4">
+          Craving is backed up by ignorance if one cannot see that she too is empty of inherent existence. 
+          She appears on the screen due to her own karmic formations.
+        </p>
+
+        <p className="mb-4">
+          This process is brilliantly illuminated in the Fire Sermon (Adittapariyaya Sutta, SN 35.28):
+        </p>
+
+        <blockquote className="mb-6 border-l-4 border-orange-500 pl-4 italic bg-orange-50 p-4 rounded-r">
+          "Monks, the eye is burning, forms are burning, eye-consciousness is burning, 
+          eye-contact is burning, and whatever feeling arises dependent on eye-contact—whether 
+          pleasant, painful, or neutral—that too is burning. Burning with what? Burning with 
+          the fire of passion, the fire of aversion, the fire of delusion; burning with birth, 
+          aging, and death; with sorrow, lamentation, pain, distress, and despair, I say...
+          <br/><br/>
+          Seeing thus, the well-instructed disciple of the noble ones grows disenchanted with 
+          the eye, disenchanted with forms, disenchanted with eye-consciousness, disenchanted 
+          with eye-contact."
+        </blockquote>
+
+        <p className="mb-4">
+          When we see all sensory experience through the lens of dependent origination, 
+          we understand that craving arises not because "I" want something, but because 
+          conditions have come together to create the experience of desire. By recognizing 
+          this process, we can observe craving without identifying with it, allowing the 
+          fire to gradually burn itself out.
+        </p>
         
         <Link to="/one" className="mt-4 inline-block px-4 py-2 underline">
           Previous
