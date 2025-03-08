@@ -94,6 +94,34 @@ export const Two = () => {
           "This is not me. This feeling is not me. This sensation is not me. These five aggregates are not me." Think in this way and you disassociate yourself from the illusion of self. Whenever you associate yourself with the "I" within, you're engaging in a pattern of unwholesome thought. Avoid this identification. It is a fire that will cause suffering, because all suffering occurs within the five aggregates.
         </p>
         
+        <h1 className="text-2xl font-bold mt-8 mb-4">The Middle Way in Action</h1>
+        <p className="mb-4">
+          If there is no self, as stated above, then there are only processes.
+        </p>
+        <p className="mb-4">
+          You may have heard the dream analogy: When you wake up from your dream, you realize that 'you' - the sense of self you felt in the dream - was not you but something fabricated by the mind. If you have ever experienced lucid dreaming, this realization becomes even more profound. You dare to do anything in the dream because you recognize the dream person is not the "real self" you ordinarily identify with.
+        </p>
+        <p className="mb-4">
+          This raises a profound question: By realizing there is no self in these processes, why follow the five precepts? Why adhere to ethical rules? If you have no self, for whom are these ethical guidelines intended?
+        </p>
+        <p className="mb-4">
+          I have been putting constant efforts to correct the smallest flaws in my ethical conduct - simple acts like not taking anything that's not given or purchased. I work as a custodian on campus, and my friends hesitate to clean toilets or vacuum because these tasks are intensive. But realizing I have no permanent self, I willingly take on these duties. Yet while doing so, I've often wondered: why would any of this matter if these are just processes with nothing truly associated with "myself"?
+        </p>
+        <p className="mb-4">
+          Here, the middle way comes to the rescue. The Buddha taught that we should not cling to either extreme: neither the belief in a permanent, unchanging self nor the belief in complete nihilism where nothing matters. Instead, we should recognize the <strong>middle way</strong>: there is no permanent self, but there is still experience, and actions still have consequences and significance.
+        </p>
+        <p className="mb-4">
+          This middle path is beautifully illustrated in the Kaccayanagotta Sutta (Samyutta Nikaya 12.15), where the Buddha addresses this very paradox:
+        </p>
+        <blockquote className="mb-4 border-l-4 pl-4 italic">
+          "This world, Kaccana, for the most part depends upon a duality—upon the notion of existence and the notion of nonexistence. But for one who sees the origin of the world as it really is with correct wisdom, there is no notion of nonexistence in regard to the world. And for one who sees the cessation of the world as it really is with correct wisdom, there is no notion of existence in regard to the world.<br /><br />
+          
+          "This world, Kaccana, is for the most part shackled by engagement, clinging, and adherence. But one such as this [with right understanding] does not become engaged and cling through that engagement and clinging, mental standpoint, adherence, underlying tendency; he does not take a stand about 'my self.' He has no perplexity or doubt that what arises is only suffering arising, what ceases is only suffering ceasing. His knowledge about this is independent of others. It is in this way, Kaccana, that there is right view."
+        </blockquote>
+        <p className="mb-4">
+          The middle way teaches us that while the self is not ultimate or permanent, our actions create causes and conditions that shape experience. Ethical conduct isn't for the benefit of an unchanging self, but rather contributes to the unfolding of experience with less suffering and greater harmony. The absence of a permanent self doesn't negate responsibility—it transforms our understanding of it.
+        </p>
+        
         <Link to="/one" className="mt-4 inline-block px-4 py-2 underline">
           Previous
         </Link>
